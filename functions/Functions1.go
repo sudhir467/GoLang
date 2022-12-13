@@ -1,3 +1,0 @@
-/* This program is to demonstrate functions
-
- */
